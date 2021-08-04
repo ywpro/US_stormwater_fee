@@ -75,9 +75,11 @@
       
       var marker = L.circleMarker([row.Latitude, row.Longitude], {radius: 5+0.5*row.Fee, weight: 1, opacity: 0.7})
         .bindPopup("<b>Location</b>: " + row.Full_address + 
-                  "<br><b>ERU (ft2)</b>: " + row.ERU + 
+                  "<br><b>ERU (ft<sup>2</sup>)</b>: " + row.ERU + 
                   "<br><b>Fee ($)</b>: " + row.Fee +
-                  "<br><b>Fee type</b>: " + row.Fee_Type);
+                  "<br><b>Fee type</b>: " + row.Fee_Type +
+                  "<br><b>Year created</b>: " + row.Year_Created +
+                  "<br><b>Population</b>: " + row.Population);
 
       marker.addTo(map);
     }
