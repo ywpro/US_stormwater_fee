@@ -11,11 +11,11 @@ Data is take from the [report above](https://digitalcommons.wku.edu/seas_faculty
 The original data in CSV format can be downloaded from this repository. `CampbellBradshaw_geocoded_hasERUandFEE.csv` is the one represented in the map. `CampbellBradshaw_geocoded_validated.csv` is the complete version containing all 1851 utilities.
 
 #### Georeferencing
-All locations are first geocoded with [Geocodio](https://www.geocod.io/) and then with [Google Maps](https://www.google.com/maps). Locations where two sets of coordinates differ greatly (x or y differs by larger than 0. degree) are manually checked. The coordinates represent the approximate center location of each stormwater utility. 
+All locations are first geocoded with [Geocodio](https://www.geocod.io/) and then with [Google Maps](https://www.google.com/maps). Locations where two sets of coordinates differ greatly (x or y differs by larger than 0.2 degree) are manually checked. The coordinates represent the approximate center location of each stormwater utility. 
 
 
 ## Mapped information
-This map includes stormwater utilities that charges a stormwater fee in an Equivalent Residential Unit (ERU) System or a Tier System. 
+This map includes 1094 stormwater utilities that charges a stormwater fee in an Equivalent Residential Unit (ERU) System or a Tier System. 
 
 - ERU is the average or median impervious area of a single family residential property. An ERU System charges residential properties at a unit rate, and charges nonresidential properties based on the number of ERU on those properties. It's the most popular system in the U.S.;
 - Tier System changes both residential and nonresidential properties based on impervious area. It's the second most popular system in the U.S.
