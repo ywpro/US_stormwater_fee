@@ -21,7 +21,7 @@ This map includes 1094 stormwater utilities that charges a stormwater fee in an 
 
 Other charging systems are represented in the following figure (Kea et al., 2016).
 
-![](Ken2016.jpg)
+![](Ken2016.jpg  | width=50)
 
 You can click on each utility to view its location, ERU area in sqft, and per-ERU fee in U.S. dollar. Circle size represents stormwater fee magnitude. You can switch to another base map on the top-right corner.
 
