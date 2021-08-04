@@ -1,6 +1,8 @@
 # US_stormwater_fee
 A map of US stormwater utilities that collect ERU-based stormwater fees
 
+**link to the map: https://ywpro.github.io/US_stormwater_fee/**
+
 ## Data Source 
 > Campbell, W., & Bradshaw, J. (2021). Western Kentucky University Stormwater Utility Survey 2021.
 
