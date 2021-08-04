@@ -20,4 +20,4 @@ This map includes stormwater utilities that charges a stormwater fee in an Equiv
 - ERU is the average or median impervious area of a single family residential property. An ERU System charges residential properties at a unit rate, and charges nonresidential properties based on the number of ERU on those properties. It's the most popular system in the U.S.;
 - Tier System changes both residential and nonresidential properties based on impervious area. It's the second most popular system in the U.S.
 
-You can click on each utility to view its location, ERU area in sqft, and per-ERU fee in U.S. dollar. You can switch to another base map on the top-right corner.
+You can click on each utility to view its location, ERU area in sqft, and per-ERU fee in U.S. dollar. Circle size represents stormwater fee magnitude. You can switch to another base map on the top-right corner.
