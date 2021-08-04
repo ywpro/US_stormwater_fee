@@ -73,7 +73,7 @@
 
       // var marker = L.circle([row.Latitude, row.Longitude], {radius: 1000, opacity: 0.3}).bindPopup(row.Full_address);
       
-      var marker = L.circleMarker([row.Latitude, row.Longitude], {radius: 5, stroke: false, fillOpacity: 0.5})
+      var marker = L.circleMarker([row.Latitude, row.Longitude], {radius: 5+0.5*row.Fee, weight: 1, opacity: 0.7})
         .bindPopup("<b>Location</b>: " + row.Full_address + 
                   "<br><b>ERU (ft2)</b>: " + row.ERU + 
                   "<br><b>Fee ($)</b>: " + row.Fee);
