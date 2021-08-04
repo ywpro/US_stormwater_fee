@@ -1,4 +1,4 @@
-No. ,Location,geo_State,Full address,Latitude,Longitude,Fee_Type ,ERU,Fee ,Year Created ,Population ,geo_Accuracy Score,geo_Zipcode
+No. ,Location,geo_State,Full address,Latitude,Longitude,Fee_Type,ERU,Fee,Year Created ,Population ,geo_Accuracy Score,geo_Zipcode
 1590,Bellingham,WA,Bellingham WA,48.753404,-122.5313495,Tier,,22.6,2001,81862,1,98225
 1608,Des Moines,WA ,Des Moines WA ,47.3858961,-122.3484494,Tier,,22.57,1990,30258,0.5,
 862,Olivia,MN,Olivia MN,44.7773461,-95.0414478,Tier,,15.67,,2449,1,56277
